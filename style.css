@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    background-color:aqua;
+}
+.logo_name{
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: rebeccapurple;
+    margin: 20px;
+    margin-left: 50px;
+}
+#log{
+    width: 150px;
+    height: auto;
+}
+.main{
+    margin-left: 150px;
+    display: flex;
+}
+
+[class*='links_to']{
+
+    color:red;
+    font-size: 20px;
+    margin: 25px;
+    margin-left: 40px;
+}
+.search{
+    margin: 25px;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 200px;
+}
+a{
+    text-decoration: none;
+    color:rgb(55, 42, 170);
+    font-family: cursive;
+    font-weight: bold;
+}
+a:hover{
+    color: rebeccapurple;
+}
+#rasm_serch{
+    width: 25px;
+    height: 25px;
+}
+#rasm_serch:hover{
+    color: red;
+    cursor: pointer;
+
+}
+.btns{
+    border: none;
+    outline: none;
+    background-color: aqua;
+}
