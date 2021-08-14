@@ -1,6 +1,6 @@
 
 .div{
-    width: 1080px;
+    width:100%;
     height: 460px;
     border: 0px solid red;
     margin: auto;
@@ -9,7 +9,7 @@
 }
 
 .rasm1{
-    width: 1080px;
+    width: 100%;
     height: 460px;
 }
 
