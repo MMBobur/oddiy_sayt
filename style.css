@@ -64,7 +64,7 @@ a:hover{
 /* javodbek style */
 .javodbek{
     width: 100%;
-    height: 55vh;
+    height: 50vh;
 }
 .text{
     width: 100%;
@@ -72,21 +72,23 @@ a:hover{
     font-size: 35px;
     font-weight: 700;
     color: #000;
-    margin-top: 20px;
 }
 .container{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    height: 40vh;
 }
 .box-1{
-    width: 25%;
-    height: 350px;
+    width: 22%;
+    height: 330px;
     background-color: #fff;
+    margin-top: 10px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
 }
 .image1{
     width: 100%;
-    height: 280px;
+    height: 250px;
 }
 .font{
     text-align: center;
