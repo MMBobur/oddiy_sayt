@@ -5,6 +5,7 @@
 .navbar{
     display: flex;
     background-color:aqua;
+    box-shadow: 4px 1px 5px red;
 }
 .logo_name{
     font-family: cursive;
