@@ -1,0 +1,24 @@
+.div{
+    width: 1080px;
+    height: 460px;
+    border: 0px solid red;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: -10px;
+}
+
+.rasm1{
+    width: 1080px;
+    height: 460px;
+}
+
+.text1{
+    margin-top: -330px;
+    margin-left: 200px;
+    color: rgb(255, 255, 255);
+}
+
+.text2{
+    margin-left: 200px;
+    color: rgb(255, 255, 255);
+}
