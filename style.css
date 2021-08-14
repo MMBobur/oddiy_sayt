@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    background-color:aqua;
+    box-shadow: 4px 1px 5px red;
+}
+.logo_name{
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: rebeccapurple;
+    margin: 20px;
+    margin-left: 50px;
+}
+#log{
+    width: 150px;
+    height: auto;
+}
+.main{
+    margin-left: 150px;
+    display: flex;
+}
+
+[class*='links_to']{
+
+    color:red;
+    font-size: 20px;
+    margin: 25px;
+    margin-left: 40px;
+}
+.search{
+    margin: 25px;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 200px;
+}
+a{
+    text-decoration: none;
+    color:rgb(55, 42, 170);
+    font-family: cursive;
+    font-weight: bold;
+}
+a:hover{
+    color: rebeccapurple;
+}
+#rasm_serch{
+    width: 25px;
+    height: 25px;
+}
+#rasm_serch:hover{
+    color: red;
+    cursor: pointer;
+
+}
+.btns{
+    border: none;
+    outline: none;
+    background-color: aqua;
+}
+
+/* javodbek style */
+.javodbek{
+    width: 100%;
+    height: 50vh;
+    margin-top: 25px;
+}
+.text{
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    color: #000;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 40vh;
+}
+.box-1{
+    width: 22%;
+    height: 330px;
+    background-color: #fff;
+    margin-top: 10px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+}
+.image1{
+    width: 100%;
+    height: 250px;
+}
+.font{
+    text-align: center;
+    font-size: 21px;
+    font-weight: 900;
+    color: #000;
+    padding: 8px;
+}
+.intro{
+    font-size: 15px;
+    color: #000;
+    text-align: center;
+}
+/*{Mexrojiddin}*/
+.foo{
+    width: 180px;
+    height: 140px;
+    background-color:  #000;
+    margin: 20px;
+    color: white;
+    font-size: 10px;
+    border-radius: 3px;
+}
+.computer{
+    margin-left: 65px;
+    margin-top:10px;
+}
+.contener{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 24%;
+    margin-top: 10%;
+}
+.computer{
+    margin-right: 200px;
+}
+hr{
+    width: 20px;
+    margin-top: 15px;
+    margin-left: 80px;
+}
+h4{
+    margin-top: 15px;
+    text-align: center;
+}
