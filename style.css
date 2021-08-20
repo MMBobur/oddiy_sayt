@@ -69,6 +69,15 @@ a{
     font-family: cursive;
     font-weight: bold;
 }
+#rp{
+    text-decoration: none;
+    color:rgb(55, 42, 170);
+    font-family: cursive;
+    font-weight: bold;
+}
+.pp{
+    margin-top: 300px;
+}
 a:hover{
     color: rebeccapurple;
 }
